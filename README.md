@@ -13,7 +13,7 @@ Screenshots:
 ###2. Doctors Login
 ![Home Page](https://github.com/Dhavl/MRSS/blob/master/3.jpg)
 ---
-###2. Doctors Login
+###2. Doctors Home Page
 ![Home Page](https://github.com/Dhavl/MRSS/blob/master/4.jpg)
 ---
 ###4. About Page
